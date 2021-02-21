@@ -3,3 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "openmetrics"]
+	path = openmetrics
+	url = https://github.com/atheriel/openmetrics
+	shallow = true
+[submodule "rsyslog"]
+	path = rsyslog
+	url = https://github.com/atheriel/rsyslog
+	shallow = true
