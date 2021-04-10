@@ -7,7 +7,9 @@
 	path = openmetrics
 	url = https://github.com/atheriel/openmetrics
 	shallow = true
+	registered = true
 [submodule "rsyslog"]
 	path = rsyslog
 	url = https://github.com/atheriel/rsyslog
 	shallow = true
+	registered = true
