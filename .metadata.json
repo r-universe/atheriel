@@ -1,0 +1,10 @@
+[
+  {
+    "package": "openmetrics",
+    "oncran": true
+  },
+  {
+    "package": "rsyslog",
+    "oncran": true
+  }
+]
