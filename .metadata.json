@@ -1,10 +1,11 @@
 [
   {
-    "package": "openmetrics",
-    "oncran": true
+    "package": "longears"
   },
   {
-    "package": "rsyslog",
-    "oncran": true
+    "package": "sigterm"
+  },
+  {
+    "package": "usdt"
   }
 ]

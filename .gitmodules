@@ -1,15 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/atheriel/universe
 	shallow = true
 	branch = HEAD
-[submodule "openmetrics"]
-	path = openmetrics
-	url = https://github.com/atheriel/openmetrics
+[submodule "longears"]
+	path = longears
+	url = https://github.com/atheriel/longears
 	shallow = true
 	registered = true
-[submodule "rsyslog"]
-	path = rsyslog
-	url = https://github.com/atheriel/rsyslog
+[submodule "sigterm"]
+	path = sigterm
+	url = https://github.com/atheriel/sigterm
+	shallow = true
+	registered = true
+[submodule "usdt"]
+	path = usdt
+	url = https://github.com/atheriel/usdt
 	shallow = true
 	registered = true
