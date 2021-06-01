@@ -1,5 +1,21 @@
 [
   {
+    "package": "openmetrics",
+    "oncran": true
+  },
+  {
+    "package": "rsyslog",
+    "oncran": true
+  },
+  {
+    "package": "log4r",
+    "oncran": true
+  },
+  {
+    "package": "httpproblems",
+    "oncran": false
+  },
+  {
     "package": "longears"
   },
   {
