@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/atheriel/universe
-	shallow = true
 	branch = HEAD
-[submodule "openmetrics"]
-	path = openmetrics
-	url = https://github.com/atheriel/openmetrics
-	shallow = true
-	registered = true
-[submodule "rsyslog"]
-	path = rsyslog
-	url = https://github.com/atheriel/rsyslog
-	shallow = true
-	registered = true
-[submodule "log4r"]
-	path = log4r
-	url = https://github.com/johnmyleswhite/log4r
-	shallow = true
-	registered = true
 [submodule "httpproblems"]
 	path = httpproblems
 	url = https://github.com/atheriel/httpproblems
-	shallow = true
-	registered = true
+[submodule "log4r"]
+	path = log4r
+	url = https://github.com/johnmyleswhite/log4r
 [submodule "longears"]
 	path = longears
 	url = https://github.com/atheriel/longears
-	shallow = true
-	registered = true
+[submodule "openmetrics"]
+	path = openmetrics
+	url = https://github.com/atheriel/openmetrics
+[submodule "rsyslog"]
+	path = rsyslog
+	url = https://github.com/atheriel/rsyslog
 [submodule "sigterm"]
 	path = sigterm
 	url = https://github.com/atheriel/sigterm
-	shallow = true
-	registered = true
 [submodule "usdt"]
 	path = usdt
 	url = https://github.com/atheriel/usdt
-	shallow = true
-	registered = true
