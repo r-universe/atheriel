@@ -1,25 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/atheriel/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "httpproblems"]
 	path = httpproblems
 	url = https://github.com/atheriel/httpproblems
-[submodule "log4r"]
-	path = log4r
-	url = https://github.com/johnmyleswhite/log4r
-[submodule "longears"]
-	path = longears
-	url = https://github.com/atheriel/longears
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/atheriel/openmetrics
 [submodule "rsyslog"]
 	path = rsyslog
 	url = https://github.com/atheriel/rsyslog
-[submodule "sigterm"]
-	path = sigterm
-	url = https://github.com/atheriel/sigterm
-[submodule "usdt"]
-	path = usdt
-	url = https://github.com/atheriel/usdt
